@@ -1,0 +1,16 @@
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\bin\Debug\net5.0\Odev_1_1__1.exe
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\bin\Debug\net5.0\Odev_1_1__1.deps.json
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\bin\Debug\net5.0\Odev_1_1__1.runtimeconfig.json
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\bin\Debug\net5.0\Odev_1_1__1.runtimeconfig.dev.json
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\bin\Debug\net5.0\Odev_1_1__1.dll
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\bin\Debug\net5.0\ref\Odev_1_1__1.dll
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\bin\Debug\net5.0\Odev_1_1__1.pdb
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\obj\Debug\net5.0\Odev_1_1__1.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\obj\Debug\net5.0\Odev_1_1__1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\obj\Debug\net5.0\Odev_1_1__1.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\obj\Debug\net5.0\Odev_1_1__1.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\obj\Debug\net5.0\Odev_1_1__1.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\obj\Debug\net5.0\Odev_1_1__1.dll
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\obj\Debug\net5.0\ref\Odev_1_1__1.dll
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\obj\Debug\net5.0\Odev_1_1__1.pdb
+C:\Users\Kenan\Desktop\PatikaTasks\C#\Odev_1_1__1\obj\Debug\net5.0\Odev_1_1__1.genruntimeconfig.cache
